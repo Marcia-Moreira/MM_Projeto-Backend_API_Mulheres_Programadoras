@@ -1,6 +1,14 @@
 {
+  "name": "mm-backend-api-mulheres-programadoras",
+  "version": "1.0.0",
+  "description": "Descrição do projeto",
+  "main": "src/server_mulher.js",
+  "scripts": {
+    "start": "node src/server_mulher"
+  }, 
   "dependencies": {
     "express": "^4.19.2"
+
   },
   "engines": {
     "node": ">=14.20.1"
