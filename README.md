@@ -68,4 +68,28 @@ parei no video 4.3
 
 # Deploy no Render:
 
-Conta Render com GitHub
+Criar conta no Render.com com GitHub
+
+Link do Repositório GitHub: https://github.com/Marcia-Moreira/MM_Projeto-Backend_API_Mulheres_Programadoras
+
+
+Link Render: https://dashboard.render.com/
+
+=> New / Web Server / Crie e implante a partir de repositório GitHub / Márcia-Moreira / MM_Projeto-Backend_API_Mulheres_Programadoras
+11 minutos atrás / 
+
+=> MM_Projeto-Backend_API_Mulheres_Programadoras
+
+=> Local = Ohio (Leste dos EUA)
+
+=> Filial = main / principal
+
+=> Diretório raiz (opcional) = Deixa em branco
+
+=> Runtime = Node
+
+=> Build Command = npm install
+
+=> Start Command = node server_mulheres
+
+=> Instance Type = FREE
